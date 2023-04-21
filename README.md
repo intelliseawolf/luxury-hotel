@@ -1,4 +1,4 @@
-# G2i Testing
+# Luxury Hotels
 
 ## Features
 
