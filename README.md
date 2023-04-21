@@ -5,10 +5,6 @@
 - See all luxury hotels with details
 - See all rooms that included in a hotel
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ## Tech
 
 - React
@@ -16,6 +12,10 @@ In the project directory, you can run:
 - Redux Toolkit
 - Bootstrap
 - Axios
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm start`
 
